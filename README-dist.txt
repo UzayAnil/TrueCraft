@@ -1,7 +1,7 @@
 You've downloaded TrueCraft, an open source implementation of Minecraft beta
 1.7.3. Please note that TrueCraft is still experimental, and is likely to
 include bugs and unfinished features.
-
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/TrueCraft)](https://repl.it/github/UzayAnil/TrueCraft)
                            === Running TrueCraft ===
 
 On Windows, double click `TrueCraft.Launcher.exe`. This will allow you to play
